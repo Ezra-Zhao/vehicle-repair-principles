@@ -1,0 +1,3 @@
+.transcripts/
+*.log
+.DS_Store
