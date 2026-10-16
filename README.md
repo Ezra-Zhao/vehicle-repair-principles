@@ -18,10 +18,13 @@
 
 ## 动画讲解视频
 
-每类核心原理配有动画讲解版（中文配音），YouTube / TikTok 同步发布：
+「车辆维护与维修」系列：每集解决一个真实故障场景（第一步查什么、检查步骤、应急动作），中文配音（北京普通话）。
 
-- YouTube：[@ezra-zhao](https://www.youtube.com/@ezra-zhao) → 播放列表「车辆维修原理」
+- YouTube：[@ezra-zhao](https://www.youtube.com/@ezra-zhao) → 播放列表「车辆维护与维修视频集」
 - TikTok：同名系列
+- GitHub 存档（永久档案，含横屏+竖屏原片）：
+  - [第6集 刹车变软/异响：继续开还是叫拖车](https://github.com/Ezra-Zhao/vehicle-repair-principles/releases/tag/ep6)
+  - 第1集 Prius没动力/混动报警、第2集 变速箱异响顿挫打滑、第3集 打不着火：YouTube 已发布
 
 ## 出处与致谢
 
