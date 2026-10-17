@@ -23,6 +23,7 @@
 - YouTube：[@ezra-zhao](https://www.youtube.com/@ezra-zhao) → 播放列表「车辆维护与维修视频集」
 - TikTok：同名系列
 - GitHub 存档（永久档案，含横屏+竖屏原片）：
+  - [第5集 车底漏液别慌：看颜色位置辨认](https://github.com/Ezra-Zhao/vehicle-repair-principles/releases/tag/ep5)
   - [第6集 刹车变软/异响：继续开还是叫拖车](https://github.com/Ezra-Zhao/vehicle-repair-principles/releases/tag/ep6)
   - 第1集 Prius没动力/混动报警、第2集 变速箱异响顿挫打滑、第3集 打不着火：YouTube 已发布
 
