@@ -23,6 +23,7 @@
 - YouTube：[@ezra-zhao](https://www.youtube.com/@ezra-zhao) → 播放列表「车辆维护与维修视频集」
 - TikTok：同名系列
 - GitHub 存档（永久档案，含横屏+竖屏原片）：
+  - [第4集 水温报警灯亮了：立即停车还是能开？](https://github.com/Ezra-Zhao/vehicle-repair-principles/releases/tag/ep4)
   - [第5集 车底漏液别慌：看颜色位置辨认](https://github.com/Ezra-Zhao/vehicle-repair-principles/releases/tag/ep5)
   - [第6集 刹车变软/异响：继续开还是叫拖车](https://github.com/Ezra-Zhao/vehicle-repair-principles/releases/tag/ep6)
   - [第9集 方向盘突然变重/抖动怎么办](https://github.com/Ezra-Zhao/vehicle-repair-principles/releases/tag/ep9)
