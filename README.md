@@ -27,6 +27,7 @@
   - [第5集 车底漏液别慌：看颜色位置辨认](https://github.com/Ezra-Zhao/vehicle-repair-principles/releases/tag/ep5)
   - [第6集 刹车变软/异响：继续开还是叫拖车](https://github.com/Ezra-Zhao/vehicle-repair-principles/releases/tag/ep6)
   - [第9集 方向盘突然变重/抖动怎么办](https://github.com/Ezra-Zhao/vehicle-repair-principles/releases/tag/ep9)
+  - [第10集 小事故后车还能不能开？5项检查](https://github.com/Ezra-Zhao/vehicle-repair-principles/releases/tag/ep10)
   - 第1集 Prius没动力/混动报警、第2集 变速箱异响顿挫打滑、第3集 打不着火：YouTube 已发布
 
 ## 出处与致谢
