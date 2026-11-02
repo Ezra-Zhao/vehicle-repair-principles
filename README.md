@@ -30,6 +30,7 @@
   - [第10集 小事故后车还能不能开？5项检查](https://github.com/Ezra-Zhao/vehicle-repair-principles/releases/tag/ep10)
   - 第1集 Prius没动力/混动报警、第2集 变速箱异响顿挫打滑、第3集 打不着火：YouTube 已发布
   - 第7集 高速爆胎、第8集 车内汽油味/焦糊味、第11集 雨刮突然罢工/刮不干净：YouTube 已发布（GitHub Release 存档待补）
+  - 第12集 晚上开车灯光突然全灭、第13集 轮胎慢撒气胎压灯亮：YouTube 已发布（GitHub Release 存档待补）
 
 ## 出处与致谢
 
